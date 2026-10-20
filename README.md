@@ -88,7 +88,7 @@ This project was developed collaboratively, with team members contributing to di
 red-light-green-light/
 ├── images/
 │   ├── tinkercad-setup.png
-│   └── final-packaged-product.jpg
+│   └── final-packaged-product.png
 ├── src/
 │   ├── my_test.ino
 │   ├── combined_header.h
